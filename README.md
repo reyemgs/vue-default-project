@@ -1,4 +1,4 @@
-# vuejs-learning
+# vuejs-default-project
 
 ## Project setup
 ```
